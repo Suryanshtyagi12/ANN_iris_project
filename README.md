@@ -86,9 +86,4 @@ Feature (column) names
 Install required libraries using:
 
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
-If you'd like, I can help you:
-✔ Add screenshots or visualizations
-✔ Add a "How to Run" section
-✔ Add badges and deployment instructions
 
-Want me to include any of those? 😊
